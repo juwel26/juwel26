@@ -1,6 +1,3 @@
-# Hey,👋
-![logo](https://github.com/juwel26/juwel26/blob/main/github%20banner.png)
-
 <div align="center">
 <img src="https://github.com/juwel26/juwel26/blob/main/github%20banner.png?raw=true" align="center" style="width: 100%" />
 </div>  
@@ -105,42 +102,7 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=juwel26&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=juwel26&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
-
-
-
-
-
-
+ 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=juwel26&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
